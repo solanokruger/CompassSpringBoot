@@ -17,3 +17,7 @@ Questão 3
 O erro "Untracked Files" significa que os arquivos listados não estão sendo monitorados pelo git, para resolver,
 é possível utilizar o comando "git clean", que serve para apagar esses arquivos, ou então executar "git add nome_arquivo",
 para adicionar esses arquivos no git.
+
+Questão 4
+
+Os arquivos devem ser listados no arquivo ".gitignore", assim o git vai desconsidera-los. 

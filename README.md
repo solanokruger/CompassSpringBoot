@@ -30,3 +30,9 @@ Em geral, ele dá uma visão clara de onde a equipe deve seguir e prioridade de 
 Questão 6
 
 As perguntas foram feitas fixadas no código mesmo.
+
+Questão 7 
+
+Login e senha para logar: 
+login: admin
+senha: admin

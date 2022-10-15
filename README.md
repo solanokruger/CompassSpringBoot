@@ -20,4 +20,9 @@ para adicionar esses arquivos no git.
 
 Questão 4
 
-Os arquivos devem ser listados no arquivo ".gitignore", assim o git vai desconsidera-los. 
+Os arquivos devem ser listados no arquivo ".gitignore", assim o git vai desconsidera-los.
+
+Questão 5
+
+O Product Owner (PO) possui a responsabilidade de decisão e de recursos usados para realizar o projeto.
+Em geral, ele dá uma visão clara de onde a equipe deve seguir e prioridade de desenvolvimento.
